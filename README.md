@@ -167,9 +167,9 @@ These concepts will serve as a foundation for learning Python scripting and auto
 
 ## 👨‍💻 Author
 
-**Name:** Your Name
+**Name:** Mridul Sharma
 
-**Course:** MCA
+**Course:** DevOps
 
 **Assignment:** TuteDude – Python & Bash
 
